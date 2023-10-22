@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Vasanth G</h1>
-<h3 align="center">An Machine Learning Enthusiast from India</h3>
+<h3 align="center">A Machine Learning Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
