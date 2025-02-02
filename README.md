@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
-- 🌱 I’m currently learning **PyTorch**
 
 - 📫 How to reach me **gsvasanth2004@gmail.com**
 
