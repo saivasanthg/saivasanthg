@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif">
 
 
-- 📫 How to reach me **gsvasanth2004@gmail.com**
+- 📫 Contact:**gsvasanth2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
